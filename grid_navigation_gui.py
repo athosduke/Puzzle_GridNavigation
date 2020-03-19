@@ -1,7 +1,7 @@
 import sys
 import tkinter
 
-import homework3
+import puzzle
 
 class Grid(tkinter.Canvas):
 
